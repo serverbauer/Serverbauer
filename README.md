@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Finn</h1>
+<h1 align="center">Hi 👋, I'm Finn | @Serverbauer </h1>
 <h3 align="center">A passionate developer from Austria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serverbauer&label=Profile%20views&color=0e75b6&style=flat" alt="serverbauer" /> </p>
